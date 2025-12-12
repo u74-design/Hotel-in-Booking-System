@@ -1,0 +1,20 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "Restaurant Booking System",
+  "license": "ISC",
+  "author": "Umesh Jhurke",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.2.1",
+    "express-session": "^1.18.2",
+    "mongodb": "^7.0.0",
+    "node": "^20.19.6",
+    "nodemon": "^3.1.11"
+  }
+}
